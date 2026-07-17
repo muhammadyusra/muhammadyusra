@@ -1,3 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Yusra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Python%20Developer%20|%20Power%20BI&descAlignY=58&descSize=18"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Yusra;Software+Engineering+Student;Python+Developer;Power+BI+Enthusiast;Web+Developer;Machine+Learning+Learner" />
+</p>
+
 # 💫 About Me:
 Saya adalah seorang Mahasiswa Rekayasa Perangkat Lunak<br>di Institut Teknologi dan Bisnis Indonesia
 
@@ -25,3 +31,4 @@ Saya adalah seorang Mahasiswa Rekayasa Perangkat Lunak<br>di Institut Teknologi 
 [![](https://komarev.com/ghpvc/?username=muhammadyusra&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
