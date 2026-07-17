@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Python+Developer;Power+BI+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Things..." />
 </p>
-
 <p align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
