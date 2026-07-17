@@ -9,49 +9,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuraa.kk) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yuraaa43) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadyusra1102@gmail.com) 
 
-
-# 📌 Dashboard
-
-<div align="center">
-
-| 👨‍💻 About Me |
-|:-------------:|
-| 🎓 **Software Engineering Student** |
-| 🏫 **Institut Teknologi dan Bisnis Indonesia** |
-| 📍 **Indonesia** |
-| |
-| **💡 Interested In** |
-| 🌐 Web Development |
-| 📱 Mobile Development |
-| 🤖 Machine Learning |
-| 📊 Data Analytics |
-| |
-| **🌱 Currently Learning** |
-| 🅰️ Angular |
-| 📈 Power BI |
-| 🧠 Artificial Intelligence |
-
-</div>
-
-<br>
-
-<div align="center">
-
-| 🚀 Current Focus |
-|:---------------:|
-| ✅ Building Useful Applications |
-| 📊 Business Intelligence Dashboard |
-| 🤖 Machine Learning |
-| 🐍 Python Automation |
-| 🌍 Open Source Projects |
-| 🎨 Clean UI/UX Design |
-| |
-| 💬 *"Keep Learning, Keep Building."* |
-
-</div>
-
----
-
 # 💻 Tech Stack
 
 <p align="center">
