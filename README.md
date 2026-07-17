@@ -134,16 +134,6 @@
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadyusra&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -157,14 +147,12 @@
 # 💬 Random Quote
 
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Wang+Lin+👋;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Learner" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# Walawe
 
 <p align="center">
 
