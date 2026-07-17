@@ -108,13 +108,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=muhammadyusra&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" />
-
-  <img width="49%" src="https://streak-stats.demolab.com/?user=muhammadyusra&theme=codeSTACKr&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=muhammadyusra&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadyusra&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=muhammadyusra&theme=codeSTACKr&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadyusra&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 # 📈 Contribution Graph
