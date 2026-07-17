@@ -147,11 +147,10 @@
 # 💬 Random Quote
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4500&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=Terus+Belajar,+Terus+Berkembang.;Membangun+Solusi+Melalui+Teknologi.;Setiap+Baris+Kode+adalah+Langkah+Menuju+Kemajuan." />
 </p>
----
 
-# Walawe
+# Snake
 
 <p align="center">
 
