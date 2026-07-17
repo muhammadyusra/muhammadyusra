@@ -105,22 +105,11 @@
 | 🕷 Web Scraping | Python scraping using Requests, BeautifulSoup & Selenium |
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=muhammadyusra&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=muhammadyusra&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhammadyusra&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadyusra&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=muhammadyusra&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyusra&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 # 📈 Contribution Graph
 
