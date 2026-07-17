@@ -6,23 +6,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Python+Developer;Power+BI+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Things..." />
 </p>
 
-<p align="center">
-<a href="mailto:muhammadyusra1102@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuraa.kk) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yuraaa43) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadyusra1102@gmail.com) 
 
-<a href="https://instagram.com/yuraa.kk">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://tiktok.com/@yuraaa43">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=muhammadyusra&style=for-the-badge&color=0e75b6"/>
-</p>
-
----
 
 # 📌 Dashboard
 
