@@ -24,60 +24,29 @@
 
 ---
 
-# 📌 Dashboard
+📌 Developer Dashboard
 
-<table>
-<tr>
+┌──────────────────────────────┐
+│ 👨‍💻 Profile                  │
+│ 🎓 Software Engineering      │
+│ 📍 Indonesia                 │
+│ 💼 Full Stack Developer      │
+└──────────────────────────────┘
 
-<td width="50%">
+┌──────────────────────────────┐
+│ 🚀 Focus                     │
+│ 🤖 Machine Learning          │
+│ 📊 Business Intelligence     │
+│ 📱 Mobile Development        │
+│ 🌐 Web Development           │
+└──────────────────────────────┘
 
-## 👨‍💻 About Me
-
-🎓 Software Engineering Student
-
-🏫 Institut Teknologi dan Bisnis Indonesia
-
-📍 Indonesia
-
-💻 Interested in
-
-- Web Development
-- Mobile Development
-- Machine Learning
-- Data Analytics
-
-🌱 Currently Learning
-
-- Angular
-- Power BI
-- Artificial Intelligence
-
-</td>
-
-<td width="50%">
-
-## 🚀 Current Focus
-
-✔ Building useful applications
-
-✔ Business Intelligence Dashboard
-
-✔ Machine Learning
-
-✔ Python Automation
-
-✔ Open Source Projects
-
-✔ Clean UI/UX Design
-
-> "Keep Learning, Keep Building."
-
-</td>
-
-</tr>
-</table>
-
----
+┌──────────────────────────────┐
+│ 🎯 Goals                     │
+│ ✔ Build impactful apps       │
+│ ✔ Learn AI                   │
+│ ✔ Contribute to Open Source  │
+└──────────────────────────────┘
 
 # 💻 Tech Stack
 
