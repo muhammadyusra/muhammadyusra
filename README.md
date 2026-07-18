@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Muhammad%20Yusra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Python%20Developer%20|%20Power%20BI&descAlignY=58&descSize=18"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=5EC8E8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Python+Developer;Power+BI+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8CA0B8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Python+Developer;Power+BI+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Things..." />
 </p>
 <p align="center">
 
